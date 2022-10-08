@@ -1,0 +1,20 @@
+{
+  "name": "cs-mock-hash",
+  "version": "1.0.0",
+  "description": "Please refer to the directions in Canvas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackerUSA-CE/CS-Mock-Hash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackerUSA-CE/CS-Mock-Hash/issues"
+  },
+  "homepage": "https://github.com/HackerUSA-CE/CS-Mock-Hash#readme"
+}
