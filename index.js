@@ -24,7 +24,7 @@ checkPassword = async (username, plaintextPassword) => {
 
         // TODO: The result variable is a boolean. True means the user was valid. Take action accordingly.
         if (result) {
-            // TODO: Display message for valid credentials
+            // TODO: display message for valid credentials
         }
         else {
             // TODO: Display message for invalid credentials
